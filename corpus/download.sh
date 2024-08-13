@@ -31,4 +31,8 @@ export AIHUB_PW=$2
 # ./aihubshell -mode d -datasetkey 71720
 
 # 한-중/한-일 특허 및 기술과학 분야 병렬 말뭉치 데이터
-./aihubshell -mode d -datasetkey 71735
+# ./aihubshell -mode d -datasetkey 71735
+
+# 방송콘텐츠 한국어-아시아어 번역 말뭉치
+./aihubshell -mode d -datasetkey 71591
+
