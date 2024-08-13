@@ -28,4 +28,7 @@ export AIHUB_PW=$2
 # ./aihubshell -mode d -datasetkey 71646
 
 # 국내 법률 대상 다국어 번역 데이터
-./aihubshell -mode d -datasetkey 71720
+# ./aihubshell -mode d -datasetkey 71720
+
+# 한-중/한-일 특허 및 기술과학 분야 병렬 말뭉치 데이터
+./aihubshell -mode d -datasetkey 71735
